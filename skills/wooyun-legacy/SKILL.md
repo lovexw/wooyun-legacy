@@ -176,12 +176,4 @@ WooYun 模式：[与领域参考中匹配的模式]
 | **3. 测试** | 手动拦截、单参数、精确观察 | 每个假设有证据支持或反驳 |
 | **4. 报告** | 业务影响、重现步骤、补救措施 | 带有 WooYun 模式分类的发现 |
 
-## 相关技能
-
-- **hypothesis-driven-pentesting** — 整体渗透测试方法论
-- **hackerone-methodology** — HackerOne 漏洞模式（XSS、SSRF 等）
-- **hackernews-vuln-intel** — 来自 HackerNews 的安全威胁情报
-- **security-research** — 先知社区安全研究方法论
-- **vulnerability-methodology** — HackerOne 发现工作流
-
 <!-- 数据源：WooYun 漏洞数据库（2016年7月）· 方法论 v2.0 -->

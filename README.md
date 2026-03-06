@@ -417,12 +417,6 @@ wooyun-legacy/
 - 本插件聚焦其中 **22,132 个业务逻辑漏洞**，横跨电商、金融、社交、政务、运营商、云服务等行业
 - 所有案例数据、统计比例、高危占比均来自原始漏洞数据库的结构化分析
 
-## 相关项目
-
-- **[hypothesis-driven-pentesting](https://github.com/anthropics/claude-code)** — 假设驱动的整体渗透测试方法论
-- **[hackerone-methodology](https://github.com/anthropics/claude-code)** — 基于 HackerOne 报告的 Web 漏洞模式库
-- **[security-research](https://github.com/anthropics/claude-code)** — 基于先知社区的安全研究方法论
-
 ## 贡献指南
 
 欢迎贡献！以下是参与方式：
